@@ -1,5 +1,4 @@
 import requests
-import urllib.request
 import wget
 import os
 import re
